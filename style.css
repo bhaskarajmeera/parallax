@@ -108,21 +108,23 @@ nav ul li:hover{
 .img1 {
     background: url(./assets/a.jpg) no-repeat center;
     background-size: cover;
+    background-attachment: fixed;
 }
 .img2 {
     background: url(./assets/b.jpg) no-repeat center;
     background-size: cover;
+    background-attachment: fixed;
 }
 .img3 {
     background: url(./assets/c.jpg) no-repeat center;
     background-size: cover;
-    padding: 1.4rem 5rem;
+    background-attachment: fixed;
     
 }
 footer {
     background: black;
     color: white;
     text-align: center;
-    padding: 10px;
+    padding: 4rem;
 
 }
